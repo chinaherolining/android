@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.room:room-runtime:2.2.0-alpha01@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9512cf079754842003423dc51c7854e6/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d399c8ac7a5d4a240cecac0d04a9e88/room-runtime-2.2.0-alpha01/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d399c8ac7a5d4a240cecac0d04a9e88/room-runtime-2.2.0-alpha01/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd1fa62d35291b436eb983a3f76e32f2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9512cf079754842003423dc51c7854e6/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9512cf079754842003423dc51c7854e6/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9512cf079754842003423dc51c7854e6/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d399c8ac7a5d4a240cecac0d04a9e88/room-runtime-2.2.0-alpha01/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d399c8ac7a5d4a240cecac0d04a9e88/room-runtime-2.2.0-alpha01/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d399c8ac7a5d4a240cecac0d04a9e88/room-runtime-2.2.0-alpha01/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d399c8ac7a5d4a240cecac0d04a9e88/room-runtime-2.2.0-alpha01/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d399c8ac7a5d4a240cecac0d04a9e88/room-runtime-2.2.0-alpha01/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.room/room-runtime/2.2.0-alpha01/58535e5ddfbd81a218d0ee49c7abfd08d2ecea00/room-runtime-2.2.0-alpha01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
